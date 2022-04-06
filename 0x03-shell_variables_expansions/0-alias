@@ -1,0 +1,8 @@
+#!/bin/bash
+0-alias ls="rm *"
+
+clear
+#clear
+^u
+^p
+rooot@58c7430c995:/# cd /
